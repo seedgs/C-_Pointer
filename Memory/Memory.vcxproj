@@ -145,6 +145,7 @@
     <ClCompile Include="指针大小.c" />
     <ClCompile Include="指针练习.c" />
     <ClCompile Include="指针语法.c" />
+    <ClCompile Include="数组与指针.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-void main()
+void main5()
 {
 	int pin_1 = 'a';
 	int* q = NULL;

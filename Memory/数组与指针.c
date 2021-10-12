@@ -3,7 +3,7 @@
 #include<windows.h>
 
 
-int main(void)
+int main7(void)
 {
 	//数组首元素地址和数组的地址是一致的(一维数组)
 

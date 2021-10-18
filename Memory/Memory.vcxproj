@@ -147,6 +147,7 @@
     <ClCompile Include="指针练习.c" />
     <ClCompile Include="指针语法.c" />
     <ClCompile Include="数组与指针.c" />
+    <ClCompile Include="间接修改内存地址.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

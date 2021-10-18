@@ -3,7 +3,7 @@
 #include<Windows.h>
 #define _CRT_SECURE_NO_WARNINGS
 
-int main(void)
+int main8(void)
 {
 	int a = 10;//以a这个变量名所对应的内存空间中放一个10
 	int b[10];//int 类型的数组

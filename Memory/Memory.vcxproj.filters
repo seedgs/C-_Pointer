@@ -42,5 +42,11 @@
     <ClCompile Include="间接修改内存地址.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="内存栈区.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="栈区分析.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -3,7 +3,7 @@
 #include<Windows.h>
 #define _CRT_SECURE_NO_WARNINGS
 
-int main()
+int main9()
 {
 	int a = 10;
 

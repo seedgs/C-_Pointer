@@ -142,11 +142,13 @@
     <ClCompile Include="Exercise01(指针).c" />
     <ClCompile Include="Exercise02(指针与数组).c" />
     <ClCompile Include="内存与变量.c" />
+    <ClCompile Include="内存栈区.c" />
     <ClCompile Include="指针变量.c" />
     <ClCompile Include="指针大小.c" />
     <ClCompile Include="指针练习.c" />
     <ClCompile Include="指针语法.c" />
     <ClCompile Include="数组与指针.c" />
+    <ClCompile Include="栈区分析.c" />
     <ClCompile Include="间接修改内存地址.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

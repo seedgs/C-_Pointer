@@ -86,7 +86,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
@@ -143,6 +143,7 @@
     <ClCompile Include="Exercise02(指针与数组).c" />
     <ClCompile Include="内存与变量.c" />
     <ClCompile Include="内存栈区.c" />
+    <ClCompile Include="堆区分析.c" />
     <ClCompile Include="指针变量.c" />
     <ClCompile Include="指针大小.c" />
     <ClCompile Include="指针练习.c" />

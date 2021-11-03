@@ -144,6 +144,8 @@
     <ClCompile Include="内存与变量.c" />
     <ClCompile Include="内存栈区.c" />
     <ClCompile Include="堆区分析.c" />
+    <ClCompile Include="指针与数组加减法Exercise.c" />
+    <ClCompile Include="指针与数组的加减法.c" />
     <ClCompile Include="指针变量.c" />
     <ClCompile Include="指针大小.c" />
     <ClCompile Include="指针练习.c" />

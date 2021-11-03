@@ -51,5 +51,11 @@
     <ClCompile Include="堆区分析.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="指针与数组的加减法.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针与数组加减法Exercise.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -57,5 +57,14 @@
     <ClCompile Include="指针与数组加减法Exercise.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="间接赋值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

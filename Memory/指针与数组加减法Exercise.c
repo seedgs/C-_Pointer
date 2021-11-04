@@ -3,7 +3,7 @@
 #include<Windows.h>
 #define _CRT_SECURE_NO_WARNINGS
 
-int main(void)
+int main20(void)
 {
 	char str[] = "12345";
 

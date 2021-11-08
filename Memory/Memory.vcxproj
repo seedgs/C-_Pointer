@@ -144,7 +144,6 @@
     <ClCompile Include="内存与变量.c" />
     <ClCompile Include="内存栈区.c" />
     <ClCompile Include="堆区分析.c" />
-    <ClCompile Include="指针与数组加减法Exercise.c" />
     <ClCompile Include="指针与数组的加减法.c" />
     <ClCompile Include="指针变量.c" />
     <ClCompile Include="指针大小.c" />
@@ -154,6 +153,7 @@
     <ClCompile Include="数组与指针.c" />
     <ClCompile Include="栈区分析.c" />
     <ClCompile Include="结构体.c" />
+    <ClCompile Include="结构体Exercise.c" />
     <ClCompile Include="间接修改内存地址.c" />
     <ClCompile Include="间接赋值.c" />
   </ItemGroup>

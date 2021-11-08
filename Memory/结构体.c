@@ -46,6 +46,7 @@ struct
 //结构体方法四
 //通过typedef来定义结构体，typedef给一个数据类型起别名
 //把struct Test04 替换成 Test04
+//同时上下的test04名称要相同（否则报错）
 typedef struct Text04
 {
 	char Face[8];
@@ -60,6 +61,27 @@ Test04 text04 = { "haha",30 };
 
 int main(void)
 {
+	//int a;
+	//a = 10;
+
+	Test04 test05;
+	Test04 test06;
+	//test05.Face = { "haha" };
+	
+	strcpy(test05.Face, "haha" );
+	test05.Body = 1000;
+	printf("%s\n%d\n\n",test05.Face,test05.Body);
+
+
+	//箭头运算符
+	//Test结构体它声明的时候是不开辟空间的
+	//你必须初始化对象之后才才开辟空间
+	//初始化的对象是之前声明的
+	Test04 *p = &test06;
+	strcpy(p->Face,"chacha");
+	p->Body = 200;
+	printf("%s\n%d", p->Face, p->Body);
+
 
 
 	printf("\n");

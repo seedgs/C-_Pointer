@@ -154,6 +154,7 @@
     <ClCompile Include="栈区分析.c" />
     <ClCompile Include="结构体.c" />
     <ClCompile Include="结构体Exercise.c" />
+    <ClCompile Include="结构体Exercises.c" />
     <ClCompile Include="间接修改内存地址.c" />
     <ClCompile Include="间接赋值.c" />
   </ItemGroup>

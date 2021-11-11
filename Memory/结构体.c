@@ -59,13 +59,13 @@ Test04 text04 = { "haha",30 };
 
 
 
-int main(void)
+int main33(void)
 {
 	//int a;
 	//a = 10;
 
 	Test04 test05;
-	Test04 test06;
+	
 	//test05.Face = { "haha" };
 	
 	strcpy(test05.Face, "haha" );
@@ -75,8 +75,9 @@ int main(void)
 
 	//箭头运算符
 	//Test结构体它声明的时候是不开辟空间的
-	//你必须初始化对象之后才才开辟空间
+	//你必须初始化对象之后才开辟空间
 	//初始化的对象是之前声明的
+	Test04 test06;
 	Test04 *p = &test06;
 	strcpy(p->Face,"chacha");
 	p->Body = 200;

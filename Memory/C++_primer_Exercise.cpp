@@ -1,13 +1,15 @@
 #include<iostream>
 #include<climits>
 
-int main()
+int main55()
 {
 	using namespace std;
 	int n_int = INT_MAX;
 	short n_short = SHRT_MAX;
 	long n_long = LONG_MAX;
 	cout << "int is " << sizeof(int) << " bytes." << endl;//int类型在32位状态下为4个字节
+	printf("\n"); 
+	printf("int is %d  bytes.\n", sizeof(n_int));
 	cout << "short is " << sizeof n_short << " bytes." << endl;//short类型在32位状态下为4个字节
 	cout << "long is " << sizeof n_long << " bytes." << endl << endl;//long类型在32位状态下为4个字节
 	cout << "Maximum values:" << endl;

@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="C++_primer_Exercise.cpp" />
     <ClCompile Include="Exercise01(指针).c" />
     <ClCompile Include="Exercise02(指针与数组).c" />
     <ClCompile Include="内存与变量.c" />

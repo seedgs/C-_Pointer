@@ -12,10 +12,10 @@ typedef struct Test01
 Test01 anything = {"haha"};
 
 
+//定义结构体不开辟内存
+//声明变量的时候才会开辟内存
 
-
-
-int main(void)
+int main44(void)
 {
 	int a;
 	a = 10;
@@ -37,6 +37,11 @@ int main(void)
 
 	printf("%s\n%d\n\n", num->Face, num->Eyes);
 
+
+	Test01 m1 = { "chacha",100 };
+	Test01 m2 = m1;
+	//m1赋值完后与m2没有任何关系了
+	printf("m2中Face的值：%s\nm2中Eyes的值：%d\n\n", m2.Face, m2.Eyes);
 
 	system("pause");
 	return 0;

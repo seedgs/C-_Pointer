@@ -57,7 +57,7 @@
     <ClCompile Include="间接赋值.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="指针数组.c">
+    <ClCompile Include="指针数组%28动态数组内声明指针%29.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="结构体.c">
@@ -73,6 +73,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="结构体数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针嵌套结构体%28结构体内含有指针%29.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体赋值细节.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

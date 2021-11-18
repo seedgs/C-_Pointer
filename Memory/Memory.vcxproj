@@ -148,7 +148,8 @@
     <ClCompile Include="指针与数组的加减法.c" />
     <ClCompile Include="指针变量.c" />
     <ClCompile Include="指针大小.c" />
-    <ClCompile Include="指针数组.c" />
+    <ClCompile Include="指针嵌套结构体%28结构体内含有指针%29.c" />
+    <ClCompile Include="指针数组%28动态数组内声明指针%29.c" />
     <ClCompile Include="指针练习.c" />
     <ClCompile Include="指针语法.c" />
     <ClCompile Include="数组与指针.c" />
@@ -157,6 +158,7 @@
     <ClCompile Include="结构体Exercise.c" />
     <ClCompile Include="结构体Exercises.c" />
     <ClCompile Include="结构体数组.c" />
+    <ClCompile Include="结构体赋值细节.c" />
     <ClCompile Include="间接修改内存地址.c" />
     <ClCompile Include="间接赋值.c" />
   </ItemGroup>

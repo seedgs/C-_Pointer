@@ -159,6 +159,7 @@
     <ClCompile Include="结构体Exercises.c" />
     <ClCompile Include="结构体数组.c" />
     <ClCompile Include="结构体赋值细节.c" />
+    <ClCompile Include="结构体赋值细节Exercise.c" />
     <ClCompile Include="间接修改内存地址.c" />
     <ClCompile Include="间接赋值.c" />
   </ItemGroup>

@@ -10,7 +10,7 @@ typedef struct Test1
 	int blood;
 }Test1;
 
-int main(void)
+int main99(void)
 {
 	int a;
 	Test1* MyBody = &a;

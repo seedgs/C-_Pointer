@@ -81,5 +81,8 @@
     <ClCompile Include="结构体赋值细节.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="结构体赋值细节Exercise.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

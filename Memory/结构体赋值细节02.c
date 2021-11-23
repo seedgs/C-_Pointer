@@ -16,7 +16,7 @@ typedef struct Test02
 }Test02;
 
 
-int main(void)
+int main121(void)
 {
 	Test02 pum;
 	Test02* qTe = &pum;

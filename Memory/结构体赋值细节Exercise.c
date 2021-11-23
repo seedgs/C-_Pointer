@@ -10,7 +10,7 @@ typedef struct Test1
 	int body;
 }Test1;
 
-int main(void)
+int main100(void)
 {
 	
 	Test1* mu = (Test1*)malloc(6 * sizeof(Test1));

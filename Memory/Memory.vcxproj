@@ -158,6 +158,7 @@
     <ClCompile Include="结构体.c" />
     <ClCompile Include="结构体Exercise.c" />
     <ClCompile Include="结构体Exercises.c" />
+    <ClCompile Include="结构体保存数据.c" />
     <ClCompile Include="结构体数组.c" />
     <ClCompile Include="结构体赋值细节01.c" />
     <ClCompile Include="结构体赋值细节02.c" />

@@ -4,7 +4,7 @@
 #include<string.h>
 #define _CRT_SECURE_NO_WARNINGS
 
-int main(void)
+int main333(void)
 {
 	puts("\t\t ___________________________\n");
 	puts("\t\t|          Level1           |");

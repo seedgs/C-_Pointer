@@ -12,7 +12,7 @@ typedef struct Test01
 	int age;
 }Test01;
 
-int main(void)
+int main444(void)
 {
 
 	Test01 num = { 0 };

@@ -93,5 +93,8 @@
     <ClCompile Include="结构体保存数据.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="C++控制文件.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

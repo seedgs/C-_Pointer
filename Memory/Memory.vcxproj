@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C++_primer_Exercise.cpp" />
+    <ClCompile Include="C++控制文件.c" />
     <ClCompile Include="Exercise(小界面制作).c" />
     <ClCompile Include="Exercise01(指针).c" />
     <ClCompile Include="Exercise02(指针与数组).c" />

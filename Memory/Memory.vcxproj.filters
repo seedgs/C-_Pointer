@@ -96,5 +96,8 @@
     <ClCompile Include="C++控制文件.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="文件重定向.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -155,6 +155,7 @@
     <ClCompile Include="指针练习.c" />
     <ClCompile Include="指针语法.c" />
     <ClCompile Include="数组与指针.c" />
+    <ClCompile Include="文件重定向.c" />
     <ClCompile Include="栈区分析.c" />
     <ClCompile Include="结构体.c" />
     <ClCompile Include="结构体Exercise.c" />

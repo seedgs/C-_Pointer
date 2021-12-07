@@ -24,7 +24,7 @@ char* phead()//这里char*是在栈区声明phead()函数
 
 
 
-int main(void)//在栈区声明main()函数
+int main22(void)//在栈区声明main()函数
 {
 	char* p = NULL;//声明main函数内的指针p为NULL
 	p = phead();//接收来自栈区phead()函数返回tmp地址（return tmp）

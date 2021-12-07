@@ -51,5 +51,11 @@
     <ClCompile Include="堆区分析.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="打开文件.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="文件大小.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

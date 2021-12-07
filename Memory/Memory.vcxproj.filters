@@ -99,5 +99,8 @@
     <ClCompile Include="文件重定向.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="文件读取.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
